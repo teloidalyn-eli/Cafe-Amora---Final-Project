@@ -1,0 +1,3 @@
+admin,admin123,ADMIN,false
+Lharmaine,meng123,STAFF,false
+Eloida,eli123,STAFF,false

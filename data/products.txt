@@ -1,0 +1,32 @@
+Espresso,Iced/Hot Coffee,79.0,80,data\images\img_1790830495268.jpg
+Cappuccino,Non-Coffee,90.0,0,data\images\img_1790830626281.jpg
+Iced Tea,Non-Coffee,59.0,26,data\images\img_1791366659657.jpg
+Blueberry Muffin,Pastries,85.0,18,data\images\img_1791366324990.jpg
+Milky Matcha,Non-Coffee,109.0,46,data\images\img_1791366355143.jpg
+Spanish Latte,Iced/Hot Coffee,89.0,97,data\images\img_1791366385020.jpg
+Dark Mocha,Iced/Hot Coffee,99.0,97,data\images\img_1791366425575.jpg
+Caramel Macchiato,Iced/Hot Coffee,99.0,100,data\images\img_1791366446027.jpg
+Hazelnut,Iced/Hot Coffee,89.0,100,data\images\img_1791366475478.jpg
+Strawberry Matcha,Non-Coffee,129.0,99,data\images\img_1791366491899.jpg
+Seasalt Matcha,Non-Coffee,129.0,99,data\images\img_1791366508129.jpg
+Milky Oreo,Non-Coffee,109.0,100,data\images\img_1791366529829.jpg
+Cinnamon Roll,Pastries,55.0,92,data\images\img_1791366546798.jpg
+Banana bread,Pastries,55.0,93,data\images\img_1791366566284.jpg
+Macarons,Pastries,50.0,85,data\images\img_1791366581461.jpg
+Cassava Cake,Pastries,59.0,98,data\images\img_1791366601812.jpg
+Pianono,Pastries,30.0,99,data\images\img_1791366616862.jpg
+Amora Velvet Roll,Pastries,89.0,99,data\images\img_1791890201117.jpg
+Cheesecake,Pastries,59.0,99,data\images\img_1791890321675.jpg
+Chocolate Chip Cookie,Pastries,39.0,100,data\images\img_1791890335140.jpg
+Peppermint Mocha,Iced/Hot Coffee,109.0,100,data\images\img_1792219298065.png
+Irish Cream Latte,Iced/Hot Coffee,109.0,99,data\images\img_1792219281065.png
+Honeycomb Latte,Iced/Hot Coffee,119.0,100,data\images\img_1792219268504.png
+Salted White Mocha,Iced/Hot Coffee,119.0,100,data\images\img_1792231382062.png
+Toffee Caramel Latte,Iced/Hot Coffee,119.0,100,data\images\img_1792219251301.png
+Amora Tiramisu Latte,Iced/Hot Coffee,129.0,100,data\images\img_1792220619814.png
+Dark Choco,Non-Coffee,89.0,100,data\images\img_1792220645379.jpg
+Taro Milk,Non-Coffee,109.0,100,data\images\img_1792219344004.png
+Chocolate Milk,Non-Coffee,89.0,100,data\images\img_1792219225657.png
+Cookies and Cream,Non-Coffee,89.0,100,data\images\img_1792219215045.png
+Mango Matcha,Non-Coffee,109.0,100,data\images\img_1792219099327.png
+Americano,Iced/Hot Coffee,89.0,49,
